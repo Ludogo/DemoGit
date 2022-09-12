@@ -1,9 +1,12 @@
 {
     "G.Prof": ["Bardamu", "Ludo"],
 
-    "G.A": [],
+    "G.A": ["Aicha" , "Bilal" , "Jeremy", "loic" , "Yassine"],
     "G.B": [],
-    "G.C": ["Aley","Mehdi", "Amine"],
-    "G.D": [],
-    "G.DIST": []
+
+    "G.C": ["Aley","Mehdi", "Amine"],    
+    "G.D": ["Driton", "S.K", "Yvette","Bouba"],
+    "G.DIST": ["Camille", "Clement"]
 }
+
+
