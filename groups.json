@@ -2,7 +2,11 @@
     "G.Prof": ["Bardamu", "Ludo"],
 
     "G.A": [],
+<<<<<<< HEAD
     "G.B": ["Razouk"],
+=======
+    "G.B": ["Ezekiel"],
+>>>>>>> 7c0154c25cd74979f59674024fbd4f58bf309cb0
     "G.C": [],
     "G.D": [],
     "G.DIST": []
