@@ -3,11 +3,7 @@
 
     "G.A": [],
 
-    "G.B": ["mahdi"],
-
-    "G.B": ["Razouk"],
-
-    "G.B": ["Ezekiel"],
+    "G.B": ["mahdi", "Razouk","Ezekiel"], 
     "G.C": [],
     "G.D": [],
     "G.DIST": []
