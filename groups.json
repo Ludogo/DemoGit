@@ -4,10 +4,6 @@
     "G.A": [],
     "G.B": [],
     "G.C": [],
-<<<<<<< HEAD
-    "G.D": ["Driton", "Yvette"],
-=======
-    "G.D": ["Driton","S.K", ],
->>>>>>> 775b6f4558ceb22cd77abc73d28bd52258b5f81c
+    "G.D": ["Driton", "S.K", "Yvette", ]
     "G.DIST": []
 }
